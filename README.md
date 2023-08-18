@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Perkenalkan saya Istiana Salsabila.
-Saya masih berstatus sebagai mahasiswa di Universitas Sriwijaya jurusan Sistem Informasi.
-Sekarang saya sedang mengikuti program studi independen kampus merdeka, yaitu bangkit.
-Di bangkit saya mengambil jalur belajar Android Mobile Development
+Perkenalkan saya Istiana Salsabila.<br>
+Saya masih berstatus sebagai mahasiswa di Universitas Sriwijaya jurusan Sistem Informasi.<br>
+Sekarang saya sedang mengikuti program studi independen kampus merdeka, yaitu bangkit.<br>
+Di bangkit saya mengambil jalur belajar Android Mobile Development.<br>
 <!--
 **tiaak/tiaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
